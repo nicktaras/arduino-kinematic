@@ -1,4 +1,4 @@
-# dr-robotnik
+# Robotic
 
 ## A project to create a robot. 
 
